@@ -1,0 +1,12 @@
+img {
+    max-width: 30%;
+}
+
+.grn-clr{
+    background-color: rgb(153, 195, 29);
+    border: none;
+}
+
+.card{
+    height: 100%;
+}
